@@ -26,7 +26,7 @@ class StoryBank {
         
         //Story 2
         let story2ans1 = Answer(text:"At least he\'s honest. I\'ll climb in.", story: story3)
-        let story2ans2 = Answer(text: "Wait, I know how to change a tire.", story: story5)
+        let story2ans2 = Answer(text: "Wait, I know how to change a tire.", story: story4)
         let story2 = Story(text: "He nods slowly, unphased by the question.", ans1: story2ans1, ans2: story2ans2)
         
         //Story 1
